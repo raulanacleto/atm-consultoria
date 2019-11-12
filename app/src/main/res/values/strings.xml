@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atm Empresa Categoria</string>
+    <string name="empresa_detalhes">Sobre a empresa</string>
+    <string name="texto_consultoria">Consultoria</string>
+    <string name="servico_detalhe">Serviços</string>
+    <string name="texto_clientes">Nossos Clientes</string>
+</resources>
